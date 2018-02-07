@@ -398,4 +398,8 @@
 
     <!-- Label for settings shortcut: mobile network -->
     <string name="network_settings_shortcut_title">Mobile network</string>
+
+    <!-- Face unlock toggle -->
+    <string name="face_auto_unlock_title">Face auto unlock</string>
+    <string name="face_auto_unlock_summary">Dismiss lockscreen after face unlocking</string>
 </resources>
